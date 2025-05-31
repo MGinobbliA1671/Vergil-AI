@@ -1,5 +1,6 @@
 # INSTRUTIONS TO RUN VERGIL AI
 
+#NOTE: the API key of the groq AI and firebase will expire, so please replace it so it will work
 
 #1. Clone the Repository
 ```bash
