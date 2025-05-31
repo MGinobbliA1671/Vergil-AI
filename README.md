@@ -1,7 +1,7 @@
-#INSTRUTIONS TO RUN VERGIL AI
+# INSTRUTIONS TO RUN VERGIL AI
+
 
 #1. Clone the Repository
-
 ```bash
 git clone https://github.com/MGinobbliA1671/Vergil-AI.git
 cd Vergil-AI
